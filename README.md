@@ -13,3 +13,10 @@
 * [**Assignment 3**](https://github.com/ziruiwang333/UoB-System-Programming-in-C/tree/Assignment-3)
 
 * [**Assignment 3 Solution**](https://github.com/ziruiwang333/UoB-System-Programming-in-C/tree/Assignment-3-Solution)
+
+&nbsp;
+&nbsp;
+
+<u>***Zirui Wang***</u>  
+<u>***School of Computer Science***</u>  
+<u>***University of Birmingham***</u>
