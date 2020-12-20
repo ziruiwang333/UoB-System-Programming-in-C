@@ -1,1 +1,1 @@
-# UoB-System-Programming-in-C
+# University of Birmingham System Programming in C/C++
